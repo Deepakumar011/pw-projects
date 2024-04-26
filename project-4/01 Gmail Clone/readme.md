@@ -17,4 +17,4 @@ Below is the link for the Gmail website.
 
 ## Sample Output
 
-![Gmail output](/tailwind/01%20Gmail%20Clone/output/gmailCloneOutput.png)
+![Gmail output](output/gmailCloneOutput.png)
