@@ -1,0 +1,11 @@
+.textarea{
+    margin:40px 200px 0 200px;
+}
+#floatingTextarea2{
+    height: 200px;
+}
+#aboutcart{
+    background-color: rgb(28, 9, 82);
+    border: solid;
+    border-color: blue      ;
+}
