@@ -15,7 +15,7 @@
   align-items: center;
   padding: 31px 83px;
   height: 94px;
-  background-color: #000;
+  background-color: #65a7c5;
 }
 
 .grow-list {
@@ -72,7 +72,7 @@ img {
 /* ------------------------------ */
 
 .hero {
-  background-image: url("./assets/bg.png");
+  background-image: url("bg.png");
   background-size: cover;
   background-attachment: fixed;
   height: 91.5vh;
